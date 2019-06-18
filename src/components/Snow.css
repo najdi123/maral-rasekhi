@@ -1,0 +1,23 @@
+.snow {
+    background-image: url("../images/03-snow-01.png");
+    background-size: cover;
+    color: white;
+}
+.snow-title {
+
+    /*-webkit-column-width: 50vh;*/
+    /*-moz-column-width: 50vh;*/
+    /*column-width: 50vh;*/
+
+    margin:40px;
+    padding:60px;
+
+}
+.snow-text {
+    /*-webkit-column-width: 50vh;*/
+    /*-moz-column-width: 50vh;*/
+    /*column-width: 50vh;*/
+
+    margin:20px;
+    padding:30px;
+}

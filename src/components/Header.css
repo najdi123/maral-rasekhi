@@ -27,10 +27,11 @@
     text-align: center;
 }
 .heading-primary {
+
     text-align: center;
     color: #fff;
     font-size: 55px;
-    margin-bottom: 60px;
+    margin-bottom: 40px;
     backface-visibility: hidden;
 }
 .heading-primary-main {
@@ -45,10 +46,11 @@
     animation-duration: 3s;
     animation-timing-function: ease-out;
 
-    font-size: 62px;
+    font-size: 52px;
     font-family: "Arial Narrow";
 }
 .heading-primary-sub {
+    font-size:49px;
     font-family: "Arial";
     font-weight: 600;
     display: block;

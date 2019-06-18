@@ -4,6 +4,8 @@ import Navbar from '../components/Navbar';
 import Header from '../components/Header';
 import Jumbotron from '../components/Jumbotron.jsx';
 import Intro from '../components/Intro.js';
+import Xp from '../components/Xp.js';
+import Snow from '../components/Snow.js';
 // import Gallery from '../components/Gallery'
 import "./Home.css";
 
@@ -17,7 +19,8 @@ class Home extends Component {
                 <Header/>
                 <Jumbotron/>
                 <Intro/>
-
+                <Xp/>
+                <Snow/>
             </div>
         );
     }

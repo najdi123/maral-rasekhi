@@ -1,0 +1,14 @@
+.xp {
+    -webkit-column-width: 200px;
+    -moz-column-width: 200px;
+    column-width: 200px;
+
+    margin:20px;
+    padding:30px;
+}
+.xp-number {
+
+}
+.xp-title {
+
+}
