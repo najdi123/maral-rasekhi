@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+}
+.bg {
+    background-image: url("../images/StaticPageHeader_1600x1200_Snowboard_Jamie_Action_1.jpg");
+
+    /* Full height */
+    width: 100%;
+    height: 600px;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
