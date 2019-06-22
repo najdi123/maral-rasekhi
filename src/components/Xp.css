@@ -1,14 +1,27 @@
 .xp {
-    -webkit-column-width: 200px;
-    -moz-column-width: 200px;
-    column-width: 200px;
+    /*-webkit-column-width: 200px;*/
+    /*-moz-column-width: 200px;*/
+    /*column-width: 200px;*/
 
     margin:20px;
     padding:30px;
+
+}
+.col-12 {
+    padding: 10px 8px 10px 0;
 }
 .xp-number {
 
 }
 .xp-title {
+
+}
+@media only screen and (max-width: 500px) {
+    .xp {
+        margin: 30px;
+
+    }
+
+
 
 }
