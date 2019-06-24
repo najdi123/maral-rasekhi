@@ -48,11 +48,11 @@
     animation-duration: 3s;
     animation-timing-function: ease-out;
 
-    font-size: 52px;
+    font-size: 49px;
     font-family: "Arial Narrow";
 }
 .heading-primary-sub {
-    font-size:49px;
+    font-size:46px;
     font-family: "Arial";
     font-weight: 600;
     display: block;

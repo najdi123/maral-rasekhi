@@ -2,20 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa731cb8-2874-4ee1-828e-8d8f18f0fa68" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/MediaHeader.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/News.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/images/media1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Bio.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/pages/Media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/china2017.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/mehr news.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/press tv.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tasnim-shahrivar97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/tehran times2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/varzesh3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/wiki-maral.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/wikipedia national team.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navbar.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Xp.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Xp.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Xp.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Xp.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/News.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/News.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/News.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -82,20 +80,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2458" />
+          <entry key="css" value="2466" />
           <entry key="html" value="32" />
-          <entry key="js" value="1514" />
+          <entry key="js" value="1700" />
           <entry key="json" value="34" />
           <entry key="jsx" value="232" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2458" />
+          <entry key="CSS" value="2466" />
           <entry key="HTML" value="32" />
           <entry key="JSON" value="34" />
           <entry key="JSX Harmony" value="232" />
-          <entry key="JavaScript" value="1514" />
+          <entry key="JavaScript" value="1700" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -131,11 +129,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Xp.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -155,17 +153,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Header.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="178">
+            <state relative-caret-position="323">
               <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Header.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
+            <state relative-caret-position="357">
+              <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -182,8 +180,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/News.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" selection-start-line="4" selection-end-line="4" />
+            <state relative-caret-position="697">
+              <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
+              <folding>
+                <element signature="e#124#143#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -191,8 +192,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/News.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+            <state relative-caret-position="85">
+              <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="20" />
             </state>
           </provider>
         </entry>
@@ -248,12 +249,12 @@
         <option value="$PROJECT_DIR$/src/App.js" />
         <option value="$PROJECT_DIR$/src/components/MediaHeader.js" />
         <option value="$PROJECT_DIR$/src/pages/Media.js" />
-        <option value="$PROJECT_DIR$/src/components/News.js" />
-        <option value="$PROJECT_DIR$/src/components/News.css" />
-        <option value="$PROJECT_DIR$/src/components/Header.css" />
         <option value="$PROJECT_DIR$/src/components/Navbar.css" />
         <option value="$PROJECT_DIR$/src/components/Xp.js" />
         <option value="$PROJECT_DIR$/src/components/Xp.css" />
+        <option value="$PROJECT_DIR$/src/components/News.css" />
+        <option value="$PROJECT_DIR$/src/components/News.js" />
+        <option value="$PROJECT_DIR$/src/components/Header.css" />
       </list>
     </option>
   </component>
@@ -315,6 +316,12 @@
               <item name="maral" type="b2602c69:ProjectViewProjectNode" />
               <item name="maral" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -368,12 +375,12 @@
       <workItem from="1560704285433" duration="236000" />
       <workItem from="1560757865138" duration="25944000" />
       <workItem from="1560867073028" duration="11112000" />
-      <workItem from="1561191473781" duration="3183000" />
+      <workItem from="1561191473781" duration="11489000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42951000" />
+    <option name="totallyTimeSpent" value="51257000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="541" y="16" width="926" height="832" extended-state="0" />
@@ -560,41 +567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/News.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Header.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="36" column="15" selection-start-line="36" selection-start-column="15" selection-end-line="36" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/News.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="22" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Navbar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
@@ -619,7 +591,45 @@
     <entry file="file://$PROJECT_DIR$/src/components/Xp.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="20" column="39" selection-start-line="20" selection-start-column="39" selection-end-line="20" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/News.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="4" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/News.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="697">
+          <caret line="41" column="152" selection-start-line="41" selection-start-column="152" selection-end-line="41" selection-end-column="152" />
+          <folding>
+            <element signature="e#124#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="20" column="35" lean-forward="true" selection-start-line="20" selection-start-column="35" selection-end-line="20" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Header.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="54" column="16" selection-start-line="54" selection-start-column="16" selection-end-line="54" selection-end-column="16" />
         </state>
       </provider>
     </entry>

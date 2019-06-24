@@ -3,8 +3,8 @@
     padding-top: 150px ;
 }
 .news-article {
-    padding: 25px;
+    /*padding: 25px;*/
 }
 .news-image {
-    max-width: 90%;
+    max-width: 100%;
 }
