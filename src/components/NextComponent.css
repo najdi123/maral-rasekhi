@@ -1,0 +1,30 @@
+.next {
+
+}
+.next-text {
+
+    text-align: center;
+}
+.next-text-1 {
+    font-size: 20px;
+    margin: 30px;
+    padding: 20px;
+}
+
+.next-image-1 {
+    text-align: center;
+}
+@media only screen and (min-width: 800px) {
+    .next-text-1 {
+        font-size: 20px;
+        margin: 50px;
+        padding: 50px;
+    }
+}
+
+@media only screen and (max-width: 1040px) {
+    .next-image-top {
+        max-width: 100%;
+        height: auto;
+    }
+}

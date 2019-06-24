@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 // import Header from '../components/Header';
 import Navbar from "../components/Navbar";
 // import Jumbotron from '../components/Jumbotron.jsx';
-// import Gallery from '../components/Gallery'
+import BioHeader from '../components/BioHeader'
 
 
 
@@ -13,9 +13,7 @@ class Bio extends Component {
         return (
             <div>
 
-                <div className="bg">
-                    <Navbar />
-                </div>
+                <BioHeader/>
 
             </div>
         );

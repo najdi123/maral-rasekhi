@@ -1,0 +1,37 @@
+.bio-header {
+    height: 95vh;
+    background-image:
+        url("../images/bio-hero.png");
+        background-size: cover;
+        background-position: center;
+        position: relative;
+}
+
+
+.bio-text {
+    margin-top: 620px;
+
+    text-align: center;
+}
+.bio-text-1 {
+    font-size: 17px !important;
+    margin: 30px;
+    padding: 20px;
+}
+
+.bio-image-1 {
+    text-align: center;
+    max-width: 100vh;
+}
+@media only screen and (min-width: 800px) {
+    .bio-text-1 {
+        font-size: 20px;
+        margin: 35px 50px 35px 50px;
+        padding: 35px 50px 35px 50px;
+    }
+}
+@media only screen and (max-width: 630px) {
+    .bio-image-1 {
+        max-width: 100%;
+    }
+}

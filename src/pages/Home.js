@@ -6,6 +6,7 @@ import Jumbotron from '../components/Jumbotron.jsx';
 import Intro from '../components/Intro.js';
 import Xp from '../components/Xp.js';
 import Snow from '../components/Snow.js';
+import NextComponent from '../components/NextComponent.js';
 // import Gallery from '../components/Gallery'
 import "./Home.css";
 
@@ -21,6 +22,7 @@ class Home extends Component {
                 <Intro/>
                 <Xp/>
                 <Snow/>
+                <NextComponent/>
             </div>
         );
     }

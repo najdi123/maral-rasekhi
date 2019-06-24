@@ -7,6 +7,9 @@ class Xp extends Component {
     render() {
         return (
             <div className="xp row">
+                <div className=" col-md-1 ">
+
+                </div>
                 <div className="col-12 col-sm-3 col-md-2 ">
                     <div className="number">
                         <h1>3</h1>
