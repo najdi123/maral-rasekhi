@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 // import Fade from "react-reveal/Fade";
 // import Flash from "react-reveal/Flash";
-import './Header.css'
+import './Home/Header.css'
 import Navbar from "./Navbar";
 
 import one from "../images/media1.png";

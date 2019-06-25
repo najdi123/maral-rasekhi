@@ -13,24 +13,24 @@ class Jumbotron extends Component {
 
                             <div className="sw-social">
                                 <a href="https://www.facebook.com/ShaunWhite/">
-                                    <img src={require("../images/fb.svg")} alt="Facebook" data-lazy-loaded="true" />
-                                        <noscript><img src={require("../images/fb.svg")} alt="Facebook" /></noscript>
+                                    <img src={require("../../images/fb.svg")} alt="Facebook" data-lazy-loaded="true" />
+                                        <noscript><img src={require("../../images/fb.svg")} alt="Facebook" /></noscript>
                                 </a>&nbsp;&nbsp;&nbsp;
                                 <a href="https://twitter.com/shaunwhite">
-                                    <img className="sw2" src={require("../images/twitter.svg")} alt="Twitter" data-lazy-loaded="true" />
-                                        <noscript><img src={require("../images/twitter.svg")} alt="Twitter" />
+                                    <img className="sw2" src={require("../../images/twitter.svg")} alt="Twitter" data-lazy-loaded="true" />
+                                        <noscript><img src={require("../../images/twitter.svg")} alt="Twitter" />
                                     </noscript></a>&nbsp;&nbsp;&nbsp;
                                 <a href="https://www.instagram.com/shaunwhite/">
                                     <img
-                                        src={require("../images/ig.svg")} alt="Instagram" data-lazy-loaded="true"
+                                        src={require("../../images/ig.svg")} alt="Instagram" data-lazy-loaded="true"
                                         className="sw2" />
-                                    <noscript><img src="../images/ig.svg" alt="Instagram" />
+                                    <noscript><img src="../../images/ig.svg" alt="Instagram" />
                                     </noscript></a>&nbsp;&nbsp;&nbsp;
                                 <a href="https://www.youtube.com/user/shaunwhite">
                                     <img
-                                        src={require("../images/yt.svg")} alt="Youtube" data-lazy-loaded="true"
+                                        src={require("../../images/yt.svg")} alt="Youtube" data-lazy-loaded="true"
                                         className="sw2" />
-                                    <noscript><img src="../images/yt.svg" alt="Youtube" /></noscript></a>
+                                    <noscript><img src="../../images/yt.svg" alt="Youtube" /></noscript></a>
                             </div>
 
                         </h6>

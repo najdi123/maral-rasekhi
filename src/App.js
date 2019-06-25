@@ -6,7 +6,7 @@ import About from './pages/About';
 import Contact from './pages/Contact';
 
 import Bio from './pages/Bio';
-import Media from './pages/Media';
+import Press from './pages/Press';
 
 class App extends Component {
     render() {
@@ -16,7 +16,7 @@ class App extends Component {
                     <Route exact path="/" component={Home}/>
 
                     <Route path="/bio" component={Bio}/>
-                    <Route path="/media" component={Media}/>
+                    <Route path="/press" component={Press}/>
 
                     <Route path="/about" component={About}/>
                     <Route path="/contact" component={Contact}/>

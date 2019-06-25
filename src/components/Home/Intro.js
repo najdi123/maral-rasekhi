@@ -8,7 +8,7 @@ class Intro extends Component {
         return (
             <div className="intro flex-container">
                 <div className="intro-top">
-                    <img src={require("../images/02-intro@2x.png")} className="intro-image" alt="maral rasekhi"/>
+                    <img src={require("../../images/02-intro@2x.png")} className="intro-image" alt="maral rasekhi"/>
                 </div>
 
 
