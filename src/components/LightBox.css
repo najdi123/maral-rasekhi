@@ -1,8 +1,8 @@
-img{
-    display: block;
-    width: 100%;
-    height: auto;
-}
+/*img{*/
+    /*display: block;*/
+    /*width: 100%;*/
+    /*height: auto;*/
+/*}*/
 .pax{
     padding: 0.6rem;
     text-align: center;
@@ -90,11 +90,11 @@ img.ril-image-current.ril__image{
     align-content: center;
     align-self: center;
 }
-img{
-    display: block;
-    width: 100%;
-    height: auto;
-}
+/*img{*/
+    /*display: block;*/
+    /*width: 100%;*/
+    /*height: auto;*/
+/*}*/
 
 @media (min-width: 250px) {
     img.thumbnail {

@@ -28,3 +28,6 @@ anchors are inline so you need ot make them block to go full width
 .carousel-control-next{
     height: auto;
 }
+.carousel-indicators {
+    z-index: 90;
+}

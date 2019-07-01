@@ -1,11 +1,11 @@
 .header {
-    height: 95vh;
-    background-image: linear-gradient(
-            to right bottom,
-            rgba(95, 209, 213, 0.39),
-            rgba(50, 129, 213, 0.24)),
-    url("../../images/StaticPageHeader_1600x1200_Snowboard_Jamie_Action_1.jpg");
-    background-size: cover;
+    /*height: 95vh;*/
+    /*background-image: linear-gradient(*/
+            /*to right bottom,*/
+            /*rgba(95, 209, 213, 0.39),*/
+            /*rgba(50, 129, 213, 0.24)),*/
+    /*url("../../images/StaticPageHeader_1600x1200_Snowboard_Jamie_Action_1.jpg");*/
+    /*background-size: cover;*/
     background-position: right center;
     position: relative;
 }
@@ -61,6 +61,35 @@
     animation: moveInRight 3s ease-out;
 
 
+}
+
+@media only screen and (max-width: 500px) {
+    .heading-primary-main {
+        font-weight: 100;
+        display: block;
+        letter-spacing: 25px;
+        padding-left: 20px;
+
+
+
+        animation-name: moveInLeft;
+        animation-duration: 3s;
+        animation-timing-function: ease-out;
+
+        font-size: 32px;
+        font-family: "Arial Narrow";
+    }
+    .heading-primary-sub {
+        font-size:28px;
+        font-family: "Arial";
+        font-weight: 600;
+        display: block;
+        letter-spacing: 12px;
+
+        animation: moveInRight 3s ease-out;
+
+
+    }
 }
 
 @keyframes moveInLeft {
