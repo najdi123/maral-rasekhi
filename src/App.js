@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
 import './App.css';
 import Home from './pages/Home';
-import About from './pages/About';
+import Gallery from './pages/Gallery';
 import Contact from './pages/Contact';
 
 import Bio from './pages/Bio';
@@ -18,7 +18,7 @@ class App extends Component {
                     <Route path="/bio" component={Bio}/>
                     <Route path="/press" component={Press}/>
 
-                    <Route path="/about" component={About}/>
+                    <Route path="/gallery" component={Gallery}/>
                     <Route path="/contact" component={Contact}/>
 
                 </div>

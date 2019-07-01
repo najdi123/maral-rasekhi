@@ -1,0 +1,173 @@
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.pax{
+    padding: 0.6rem;
+    text-align: center;
+}
+.portfolio{
+    padding: 100px 1.6rem 1.6rem 1.6rem;
+}
+/*portfolio images with hover description*/
+.img__wrap {
+    position: relative;
+
+}
+
+.img__description {
+
+    /*background: rgb(0, 240, 220);*/
+    color: #fff;
+    visibility: hidden;
+    opacity: 0;
+
+
+    transition: opacity .2s, visibility .2s;
+
+    position:absolute; /*it can be fixed too*/
+    left:0; right:0;
+    top:0; bottom:0;
+    margin:auto;
+
+    /*this to solve "the content will not be cut when the window is smaller than the content": */
+    max-width:100%;
+    max-height:100%;
+    overflow:auto;
+}
+.m-center{    text-align: center;
+    vertical-align: middle;
+    height: 100%;
+    /*padding-top: 10%;*/
+    padding: 27% 10% 10% 10%;
+    /*padding-top: 22%;*/
+    width: 100%;
+    font: 200 15px "worksans","Open Sans","Arial",sans-serif;
+    background-color: rgba(0, 240, 220, 0.9);
+}
+
+
+.img__wrap:hover .img__description {
+    visibility: visible;
+    opacity: 1;
+}
+
+.news-pad{
+    padding: 0;
+}
+.describe-news{
+    font:  300 18px "worksans","Open Sans","Arial",sans-serif;
+    line-height: 30px;
+    letter-spacing: 0px;
+    text-transform: none;
+    padding: 1rem 0 1rem 0;
+}
+
+
+/*img.thumbnail {*/
+    /*!*height: 250px;*!*/
+    /*!*width: 250px;*!*/
+    /*height: auto;*/
+    /*!*width: 22%;*!*/
+    /*width: 300px;*/
+    /*margin: 5px 1px 5px 10px;*/
+    /*cursor: pointer;*/
+    /*border-radius: 15px;*/
+    /*display: inline-block;*/
+
+
+/*}*/
+
+
+img.ril-image-current.ril__image{
+    height: auto;
+    width: auto;
+}
+.image-display{
+    text-align: center;
+    align-items: center;
+    align-content: center;
+    align-self: center;
+}
+img{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+@media (min-width: 250px) {
+    img.thumbnail {
+        /*height: 250px;*/
+        /*width: 250px;*/
+        height: auto;
+        width: 94%;
+        /*margin: 5px 1px 5px 10px;*/
+        margin: 10px;
+        cursor: pointer;
+        border-radius: 15px;
+        display: inline-block;
+
+        flex: 0 0 95%;
+        max-width: 95%;
+
+    }
+}
+
+@media (min-width: 577px) {
+    img.thumbnail {
+        /*height: 250px;*/
+        /*width: 250px;*/
+        height: auto;
+        width: 43%;
+        /*margin: 5px 1px 5px 10px;*/
+        margin: 10px;
+        cursor: pointer;
+        border-radius: 15px;
+        display: inline-block;
+
+        flex: 0 0 48%;
+        max-width: 48%;
+
+    }
+}
+
+@media (min-width: 768px) {
+    img.thumbnail {
+        /*height: 250px;*/
+        /*width: 250px;*/
+        height: auto;
+        width: 41%;
+        /*margin: 5px 1px 5px 10px;*/
+        margin: 10px;
+        cursor: pointer;
+        border-radius: 15px;
+        display: inline-block;
+
+        flex: 0 0 48%;
+        max-width: 48%;
+
+    }
+}
+
+@media (min-width: 992px) {
+    img.thumbnail {
+        /*height: 250px;*/
+        /*width: 250px;*/
+        height: auto;
+        width: 22%;
+        /*margin: 5px 1px 5px 10px;*/
+        margin: 10px;
+        cursor: pointer;
+        border-radius: 15px;
+        display: inline-block;
+
+        flex: 0 0 22%;
+        max-width: 22%;
+
+    }
+}
+
+
+
+

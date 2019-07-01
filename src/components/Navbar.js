@@ -20,7 +20,7 @@ class Navbar extends Component {
                         <a href="/bio">Bio</a>
                         <a href="/press">Press</a>
 
-                        <a href="/about">About</a>
+                        <a href="/gallery">Gallery</a>
                         <a href="/contact">Contact</a>
 
 

@@ -3,7 +3,8 @@ import React, { Component } from 'react';
 // import Header from '../components/Header';
 import Navbar from "../components/Navbar";
 // import Jumbotron from '../components/Jumbotron.jsx';
-// import Gallery from '../components/Gallery'
+import Gallery from '../components/Gallery'
+import Carousel from "../components/Carousel";
 
 
 
@@ -13,9 +14,11 @@ class Home extends Component {
         return (
             <div>
 
-                <div className="bg">
+
                     <Navbar />
-                </div>
+                <Carousel/>
+
+                <Gallery/>
 
             </div>
         );
