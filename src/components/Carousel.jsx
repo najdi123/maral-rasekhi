@@ -8,6 +8,9 @@ import pic1 from "../images/maral/1.gif";
 import pic2 from "../images/maral/2.gif";
 import pic3 from "../images/maral/3.gif";
 import pic4 from "../images/maral/4.gif";
+import pic5 from "../images/maral/5.gif";
+import pic6 from "../images/maral/6.gif";
+
 import Navbar from "./Navbar";
 
 
@@ -28,6 +31,9 @@ class Carousel extends Component {
                         <li data-target="#carousel" data-slide-to="1"></li>
                         <li data-target="#carousel" data-slide-to="2"></li>
                         <li data-target="#carousel" data-slide-to="3"></li>
+                        <li data-target="#carousel" data-slide-to="4"></li>
+                        <li data-target="#carousel" data-slide-to="5"></li>
+                        <li data-target="#carousel" data-slide-to="6"></li>
 
 
                     </ol>
@@ -59,6 +65,22 @@ class Carousel extends Component {
 
                             <picture>
                                 <img src={pic4} alt="responsive image" className="d-block img-fluid"/>
+                            </picture>
+
+
+                        </div>
+                        <div className="carousel-item">
+
+                            <picture>
+                                <img src={pic5} alt="responsive image" className="d-block img-fluid"/>
+                            </picture>
+
+
+                        </div>
+                        <div className="carousel-item">
+
+                            <picture>
+                                <img src={pic6} alt="responsive image" className="d-block img-fluid"/>
                             </picture>
 
 

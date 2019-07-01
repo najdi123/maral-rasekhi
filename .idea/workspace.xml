@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fa731cb8-2874-4ee1-828e-8d8f18f0fa68" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/images/maral/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/images/maral/6.gif" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Carousel.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Carousel.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Carousel.jsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/Gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Header.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Header.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/LightBox.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/LightBox.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/Gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/Gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Navbar.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -79,20 +77,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="2855" />
+          <entry key="css" value="2861" />
           <entry key="html" value="32" />
-          <entry key="js" value="2725" />
+          <entry key="js" value="2726" />
           <entry key="json" value="34" />
-          <entry key="jsx" value="312" />
+          <entry key="jsx" value="339" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="2855" />
+          <entry key="CSS" value="2861" />
           <entry key="HTML" value="32" />
           <entry key="JSON" value="34" />
-          <entry key="JSX Harmony" value="312" />
-          <entry key="JavaScript" value="2725" />
+          <entry key="JSX Harmony" value="339" />
+          <entry key="JavaScript" value="2726" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -127,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/src/pages/Home.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="323">
-              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
               <folding>
                 <element signature="e#92#134#0" expanded="true" />
               </folding>
@@ -139,7 +137,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/Home/Header.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+              <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
               <folding>
                 <element signature="e#124#145#0" expanded="true" />
               </folding>
@@ -160,7 +158,7 @@
         <entry file="file://$PROJECT_DIR$/src/components/LightBox.css">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1768">
-              <caret line="104" column="37" lean-forward="true" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+              <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -174,20 +172,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/components/Navbar.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="43" />
+            <state relative-caret-position="357">
+              <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/pages/Gallery.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="289">
-              <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="e#237#280#0" expanded="true" />
               </folding>
@@ -198,8 +196,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Gallery.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="487">
-              <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+            <state relative-caret-position="-1400">
+              <caret line="71" selection-start-line="71" selection-end-line="71" />
+              <folding>
+                <element signature="e#0#41#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -207,11 +208,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="68">
+              <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -257,7 +255,6 @@
         <option value="$PROJECT_DIR$/src/components/BioHeader.css" />
         <option value="$PROJECT_DIR$/src/components/BioHeader.js" />
         <option value="$PROJECT_DIR$/src/components/PressNav.js" />
-        <option value="$PROJECT_DIR$/src/components/Navbar.css" />
         <option value="$PROJECT_DIR$/src/components/Press/PressNav.js" />
         <option value="$PROJECT_DIR$/src/components/Press/PressNav.css" />
         <option value="$PROJECT_DIR$/src/components/Home/Jumbotron.jsx" />
@@ -272,11 +269,12 @@
         <option value="$PROJECT_DIR$/src/components/Navbar.js" />
         <option value="$PROJECT_DIR$/src/components/LightBox.css" />
         <option value="$PROJECT_DIR$/src/components/Home/Header.js" />
-        <option value="$PROJECT_DIR$/src/components/Carousel.jsx" />
         <option value="$PROJECT_DIR$/src/components/Carousel.css" />
         <option value="$PROJECT_DIR$/src/components/Home/Header.css" />
-        <option value="$PROJECT_DIR$/src/components/Gallery.js" />
         <option value="$PROJECT_DIR$/src/pages/Gallery.js" />
+        <option value="$PROJECT_DIR$/src/components/Gallery.js" />
+        <option value="$PROJECT_DIR$/src/components/Carousel.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Navbar.css" />
       </list>
     </option>
   </component>
@@ -332,6 +330,19 @@
               <item name="maral" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="maral" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="maral" type="b2602c69:ProjectViewProjectNode" />
@@ -400,12 +411,12 @@
       <workItem from="1560867073028" duration="11112000" />
       <workItem from="1561191473781" duration="19959000" />
       <workItem from="1561453351650" duration="7028000" />
-      <workItem from="1561978103254" duration="9367000" />
+      <workItem from="1561978103254" duration="11079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="76122000" />
+    <option name="totallyTimeSpent" value="77834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -426,7 +437,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32907802" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -673,14 +684,14 @@
     <entry file="file://$PROJECT_DIR$/src/components/LightBox.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1768">
-          <caret line="104" column="37" lean-forward="true" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
+          <caret line="104" column="37" selection-start-line="104" selection-start-column="37" selection-end-line="104" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/pages/Home.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
-          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
           <folding>
             <element signature="e#92#134#0" expanded="true" />
           </folding>
@@ -701,17 +712,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Navbar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="52" selection-start-line="52" selection-end-line="52" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/Header.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="28" lean-forward="true" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
           <folding>
             <element signature="e#124#145#0" expanded="true" />
           </folding>
@@ -725,30 +729,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
+    <entry file="file://$PROJECT_DIR$/src/pages/Gallery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="289">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
           <folding>
-            <element signature="e#0#41#0" expanded="true" />
+            <element signature="e#237#280#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Gallery.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="487">
-          <caret line="62" column="47" selection-start-line="62" selection-start-column="47" selection-end-line="62" selection-end-column="47" />
+        <state relative-caret-position="-1400">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="e#0#41#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Gallery.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" column="17" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
-          <folding>
-            <element signature="e#237#280#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="68">
+          <caret line="11" column="39" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Navbar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="75" column="35" selection-start-line="75" selection-start-column="35" selection-end-line="75" selection-end-column="35" />
         </state>
       </provider>
     </entry>
