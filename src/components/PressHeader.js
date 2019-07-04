@@ -19,14 +19,7 @@ class Jumbotron extends Component {
                 {/*</div>*/}
                 <Navbar/>
 
-                <div className="text-box">
-                    <h1 className="heading-primary">
-                        <span className="heading-primary-main">MARAL</span>
-                        <span className="heading-primary-sub">RASEKHI</span>
-                    </h1>
 
-
-                </div>
             </div>
         );
     }

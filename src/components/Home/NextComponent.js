@@ -4,8 +4,8 @@ import React, {Component} from 'react';
 // import Flash from "react-reveal/Flash";
 import './NextComponent.css'
 
-import one from "../../images/03-snow-video@2x-1024x587.png";
-import two from "../../images/sk-carousel1.png";
+import one from "../../images/nextC1.gif";
+import two from "../../images/nextC2.gif";
 
 class NextComponent extends Component {
     render() {

@@ -9,15 +9,15 @@
 .intro-top {
     padding: 30px 0 30px 0;
 }
-.intro-image {
-    max-width: 500px;
-    height: auto;
-    display: inline-block;
-}
-.intro-text {
-    display: inline-block;
-    padding: 35px 25px 35px 25px;
-}
+/*.intro-image {*/
+    /*max-width: 500px;*/
+    /*height: auto;*/
+    /*display: inline-block;*/
+/*}*/
+/*.intro-text {*/
+    /*display: inline-block;*/
+    /*padding: 35px 25px 35px 25px;*/
+/*}*/
 .intro-bold {
     /*width: 50%;*/
     font: 700 40px "worksansbold","Open Sans","Arial",sans-serif;
@@ -37,50 +37,50 @@
 .test {
     border: #00F0DC 2px solid;
 }
-@media only screen and (max-width: 480px) {
-    /*.column50 {*/
-    /*display:block !important;*/
-    /*width:100% !important;*/
+/*@media only screen and (max-width: 480px) {*/
+    /*!*.column50 {*!*/
+    /*!*display:block !important;*!*/
+    /*!*width:100% !important;*!*/
+    /*!*}*!*/
+    /*.intro-image {*/
+        /*max-width: 80%;*/
+        /*height: auto;*/
+        /*display: inline-block;*/
     /*}*/
-    .intro-image {
-        max-width: 80%;
-        height: auto;
-        display: inline-block;
-    }
-}
-@media only screen and (max-width: 800px) {
-    /*.column50 {*/
-        /*display:block !important;*/
-        /*width:100% !important;*/
+/*}*/
+/*@media only screen and (max-width: 800px) {*/
+    /*!*.column50 {*!*/
+        /*!*display:block !important;*!*/
+        /*!*width:100% !important;*!*/
+    /*!*}*!*/
+    /*.intro-image {*/
+        /*max-width: 100%;*/
+        /*height: auto;*/
+        /*display: inline-block;*/
     /*}*/
-    .intro-image {
-        max-width: 100%;
-        height: auto;
-        display: inline-block;
-    }
-    .intro {
-        /*display:inline-block !important;*/
-        /*width:50% !important;*/
-        -webkit-column-width: 350px;
-        -moz-column-width: 350px;
-        column-width: 350px;
-    }
-}
-@media only screen and (max-width: 1000px) {
-    /*.column50 {*/
-    /*display:block !important;*/
-    /*width:100% !important;*/
+    /*.intro {*/
+        /*!*display:inline-block !important;*!*/
+        /*!*width:50% !important;*!*/
+        /*-webkit-column-width: 350px;*/
+        /*-moz-column-width: 350px;*/
+        /*column-width: 350px;*/
     /*}*/
-    .intro-image {
-        max-width: 100%;
-        height: auto;
-        display: inline-block;
-    }
-    .intro {
-        /*display:inline-block !important;*/
-        /*width:50% !important;*/
-        -webkit-column-width: 350px;
-        -moz-column-width: 350px;
-        column-width: 350px;
-    }
-}
+/*}*/
+/*@media only screen and (max-width: 1000px) {*/
+    /*!*.column50 {*!*/
+    /*!*display:block !important;*!*/
+    /*!*width:100% !important;*!*/
+    /*!*}*!*/
+    /*.intro-image {*/
+        /*max-width: 100%;*/
+        /*height: auto;*/
+        /*display: inline-block;*/
+    /*}*/
+    /*.intro {*/
+        /*!*display:inline-block !important;*!*/
+        /*!*width:50% !important;*!*/
+        /*-webkit-column-width: 350px;*/
+        /*-moz-column-width: 350px;*/
+        /*column-width: 350px;*/
+    /*}*/
+/*}*/

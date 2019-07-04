@@ -71,7 +71,7 @@ class News extends Component {
 
                     {/*wiki links*/}
                     <div className="col-12 col-md-6 news-article" id="snowboard">
-                        <a href="http://varzeshebanovan.com/51146">
+                        <a href="https://en.m.wikipedia.org/wiki/Iran_women%27s_national_inline_hockey_team">
                             <img className="news-image" src={three} alt="Iran Asian games" />
                         </a>
                     </div>
