@@ -16,7 +16,7 @@ class Intro extends Component {
 
                 <div className="container intro-text col-sm-12 col-md-6">
                    <h1 className="intro-bold"> INT  RO</h1>
-                   <p className="describe">
+                   <p className="describe2">
                             Shaun has amassed numerous titles and victories, most notably 3 Winter Olympic gold medals in 2006, 2010 and 2018 where he earned the 100th gold medal. He is the only athlete with two perfect 100 scores. He holds the X Games records for gold medals with 15 and the highest overall medal count with 23 to date. He also has won 11 ESPY awards for Best Male Action Sports Athlete and Best Male US Olympic Athlete.
                    </p>
 
