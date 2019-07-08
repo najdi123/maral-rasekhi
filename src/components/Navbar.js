@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-// import { Link } from 'react-router-dom';
+import { Link } from 'react-router-dom';
 //
 // import Fade from "react-reveal/Fade";
 // import Flash from "react-reveal/Flash";
@@ -15,13 +15,13 @@ class Navbar extends Component {
                     <label htmlFor="toggle"> &#9776; </label>
                     <input type="checkbox" id="toggle"/>
                     <div className="menu">
-                        <a href="/">Home</a>
+                        <Link to="/">Home</Link>
 
-                        <a href="/bio">Bio</a>
-                        <a href="/press">Press</a>
+                        <Link to="/bio">Bio</Link>
+                        <Link to="/press">Press</Link>
 
-                        <a href="/gallery">Gallery</a>
-                        <a href="/contact">Contact</a>
+                        <Link to="/gallery">Gallery</Link>
+                        <Link to="/contact">Contact</Link>
 
 
 
