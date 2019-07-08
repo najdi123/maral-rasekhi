@@ -6,18 +6,20 @@
         background-size: cover;
         background-position: left center;
         position: relative;
+
 }
 
 
 .bio-text {
-    margin-top: 620px;
+    margin-top: 690px;
 
     text-align: center;
 }
 .bio-text-1 {
-    font-size: 17px !important;
+    font-size: 22px !important;
     margin: 30px;
-    padding: 20px;
+    padding: 50px;
+    line-height: 1.7em;
 }
 
 .bio-image-1 {
@@ -26,13 +28,28 @@
 }
 @media only screen and (min-width: 800px) {
     .bio-text-1 {
-        font-size: 20px;
-        margin: 35px 50px 35px 50px;
-        padding: 35px 50px 35px 50px;
+        font-size: 20px !important;
+        margin: 35px !important;
+        padding: 35px  !important;
     }
 }
 @media only screen and (max-width: 630px) {
     .bio-image-1 {
         max-width: 100%;
+    }
+    .bio-text-1 {
+        font-size: 18px !important;
+        margin: 20px !important;
+        padding: 30px  !important;
+    }
+}
+@media only screen and (max-width: 360px) {
+    .bio-image-1 {
+        max-width: 100%;
+    }
+    .bio-text-1 {
+        font-size: 18px !important;
+        margin: 16px !important;
+        padding: 20px  !important;
     }
 }
