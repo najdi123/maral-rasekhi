@@ -37,7 +37,7 @@ class Jumbotron extends Component {
 
 
                         <p className="describe">
-                            Shaun White is a dual sport professional athlete who maintains some of the highest accolades within snowboarding and skateboarding. Despite being born with a congenital heart defect, Shaun started snowboarding at age six and immediately showed an uncanny talent for the sport. By seven — the same age he was discovered by Tony Hawk at a San Diego skate park — Shaun had won a series of competitions and landed a sponsorship with Burton.
+                            Maral Rasekhi is a dual sport professional athlete who maintains some of the highest accolades within snowboarding and hockey. Maral started snowboarding at age seven and immediately showed an uncanny talent for the sport. By nine Maral had won a series of competitions and landed a sponsorship with Burton.
                         </p>
 
 

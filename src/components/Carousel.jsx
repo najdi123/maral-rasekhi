@@ -4,10 +4,10 @@ import './Carousel.css';
 
 
 
-import pic1 from "../images/maral/1.gif";
+import pic1 from "../images/maral/new1.gif";
 import pic2 from "../images/maral/2.gif";
 import pic3 from "../images/maral/3.gif";
-import pic4 from "../images/maral/4.gif";
+import pic4 from "../images/maral/new4.gif";
 import pic5 from "../images/maral/5.gif";
 import pic6 from "../images/maral/6.gif";
 

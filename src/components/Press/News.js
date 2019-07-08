@@ -24,6 +24,18 @@ class News extends Component {
                 <PressNav/>
                 <div className="row">
 
+                    <div className="col-12 col-md-6 news-article" id="news">
+                        <a href="http://thetehrantimes.com/contemporary-woman-maral-rasekhi/">
+                            <img className="news-image" src={two} alt="Iran Asian games" />
+                        </a>
+                    </div>
+
+                    <div className="col-12 col-md-6 news-article">
+                        <a href="https://www.presstv.com/detail/2016/10/26/490796/iran-women-inline-hockey-team-asian-roller-skating-championships-china">
+                            <img className="news-image" src={seven} alt="Iran Asian games" />
+                        </a>
+                    </div>
+
                     <div className="col-12 col-md-6 news-article " id="national-games">
                         <a href="https://en.m.wikipedia.org/wiki/Iran_women%27s_national_inline_hockey_team">
                             <img className="news-image" src={five} alt="Iran Asian games" />
@@ -35,11 +47,7 @@ class News extends Component {
                         </a>
                     </div>
 
-                    <div className="col-12 col-md-6 news-article" id="news">
-                        <a href="http://thetehrantimes.com/contemporary-woman-maral-rasekhi/">
-                            <img className="news-image" src={two} alt="Iran Asian games" />
-                        </a>
-                    </div>
+
                     <div className="col-12 col-md-6 news-article">
                         <a href="http://thetehrantimes.com/contemporary-woman-maral-rasekhi/">
                             <img className="news-image" src={ten} alt="Iran Asian games" />
@@ -53,11 +61,7 @@ class News extends Component {
 
                     </div>
 
-                    <div className="col-12 col-md-6 news-article">
-                        <a href="https://www.presstv.com/detail/2016/10/26/490796/iran-women-inline-hockey-team-asian-roller-skating-championships-china">
-                            <img className="news-image" src={seven} alt="Iran Asian games" />
-                        </a>
-                    </div>
+
                     <div className="col-12 col-md-6 news-article" id="hockey">
                         <a href="https://www.varzesh3.com/news/1552937/%D9%82%D8%B7%D8%B9%DB%8C-%D8%B4%D8%AF%D9%86-%D9%85%D8%AF%D8%A7%D9%84-%D8%A8%D8%B1%D9%86%D8%B2-%D8%AF%D8%AE%D8%AA%D8%B1%D8%A7%D9%86-%D8%A7%DB%8C%D9%86%D9%84%D8%A7%DB%8C%D9%86-%D9%87%D8%A7%DA%A9%DB%8C">
                             <img className="news-image" src={eight} alt="Iran Asian games" />

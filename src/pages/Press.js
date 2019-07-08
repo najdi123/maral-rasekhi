@@ -14,7 +14,7 @@ class Press extends Component {
         return (
             <div>
 
-                <div className="bg">
+                <div>
                     <PressHeader />
                 </div>
                 <News/>
