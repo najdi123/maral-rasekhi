@@ -4,12 +4,20 @@ import './Carousel.css';
 
 
 
-import pic1 from "../images/maral/new1.gif";
-import pic2 from "../images/maral/2.gif";
-import pic3 from "../images/maral/3.gif";
-import pic4 from "../images/maral/new4.gif";
-import pic5 from "../images/maral/5.gif";
-import pic6 from "../images/maral/6.gif";
+// import pic1 from "../images/maral/new1.gif";
+// import pic2 from "../images/maral/2.gif";
+// import pic3 from "../images/maral/3.gif";
+// import pic4 from "../images/maral/new4.gif";
+// import pic5 from "../images/maral/5.gif";
+// import pic6 from "../images/maral/6.gif";
+
+import pic1 from "../images/carousel/img1carousel2.jpg";
+import pic2 from "../images/carousel/img2carousel2.jpg";
+import pic3 from "../images/carousel/img3carousel2.jpg";
+import pic4 from "../images/carousel/img4carousel2.jpg";
+import pic5 from "../images/carousel/img5carousel2.jpg";
+import pic6 from "../images/carousel/img6carousel2.jpg";
+import pic7 from "../images/carousel/img7carousel2.jpg";
 
 import Navbar from "./Navbar";
 
@@ -33,6 +41,7 @@ class Carousel extends Component {
                         <li data-target="#carousel" data-slide-to="3"></li>
                         <li data-target="#carousel" data-slide-to="4"></li>
                         <li data-target="#carousel" data-slide-to="5"></li>
+                        <li data-target="#carousel" data-slide-to="6"></li>
 
 
 
@@ -81,6 +90,14 @@ class Carousel extends Component {
 
                             <picture>
                                 <img src={pic6} alt="responsive image" className="d-block img-fluid"/>
+                            </picture>
+
+
+                        </div>
+                        <div className="carousel-item">
+
+                            <picture>
+                                <img src={pic7} alt="responsive image" className="d-block img-fluid"/>
                             </picture>
 
 

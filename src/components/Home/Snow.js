@@ -12,8 +12,8 @@ class Snow extends Component {
                     <h1>SNOW</h1>
                 </div>
                 <div className="snow-text intro-image">
-                    <p>Maral got sponsored by Burton at 7 and turned pro at 13. He won his first US Open at 16, becoming the youngest rider ever to do so, and won his first Olympics gold medal at 19. He racked up a record-breaking number of contest wins in US Open, Air + Style, X Games, Dew Tour, and ESPY Awards, becoming the most decorated snowboarder in history—all before legal drinking age.
-
+                    <p>
+                        A woman who relentlessly chases her dreams: a successful woman wouldn’t let her surrounding conditions affect her decision making or distract her from achieving her goals.
                     </p>
                 </div>
 

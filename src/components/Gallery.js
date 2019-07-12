@@ -16,8 +16,8 @@ import pic8 from "../images/maral/img (8).JPG";
 import pic9 from "../images/maral/img (9).JPG";
 import pic10 from "../images/maral/img (10).JPG";
 import pic11 from "../images/maral/img (11).JPG";
-import pic12 from "../images/maral/img (12).JPG";
-import pic13 from "../images/maral/img (13).JPG";
+import pic12 from "../images/maral/img (4).HEIC";
+import pic13 from "../images/maral/img (1).HEIC";
 import pic14 from "../images/maral/img (14).JPG";
 import pic15 from "../images/maral/img (15).JPG";
 import pic16 from "../images/maral/img (16).JPG";
@@ -25,16 +25,16 @@ import pic17 from "../images/maral/img (17).JPG";
 import pic18 from "../images/maral/img (18).JPG";
 import pic19 from "../images/maral/img (19).JPG";
 import pic20 from "../images/maral/img (20).JPG";
-import pic21 from "../images/maral/img (21).JPG";
+import pic21 from "../images/maral/img (3).HEIC";
 import pic22 from "../images/maral/img (22).JPG";
 import pic23 from "../images/maral/img (23).JPG";
 import pic24 from "../images/maral/img (24).JPG";
 import pic25 from "../images/maral/img (25).JPG";
 
 import pic26 from "../images/maral/img (26).JPG";
-import pic27 from "../images/maral/img (27).JPG";
+import pic27 from "../images/maral/img (1).PNG";
 import pic28 from "../images/maral/img (28).JPG";
-import pic29 from "../images/maral/img (29).JPG";
+import pic29 from "../images/maral/img (2).HEIC";
 import pic30 from "../images/maral/img (30).JPG";
 import pic31 from "../images/maral/img (31).JPG";
 import pic32 from "../images/maral/img (32).JPG";
@@ -45,7 +45,7 @@ import pic36 from "../images/maral/img (36).JPG";
 import pic37 from "../images/maral/img (37).JPG";
 import pic38 from "../images/maral/img (38).JPG";
 import pic39 from "../images/maral/img (39).JPG";
-import pic40 from "../images/maral/img (40).JPG";
+import pic40 from "../images/maral/img (57).jpg";
 import pic41 from "../images/maral/img (41).JPG";
 import pic42 from "../images/maral/img (42).JPG";
 import pic43 from "../images/maral/img (43).JPG";
@@ -62,17 +62,16 @@ import pic53 from "../images/maral/img (53).JPG";
 import pic54 from "../images/maral/img (54).JPG";
 import pic55 from "../images/maral/img (55).jpg";
 import pic56 from "../images/maral/img (56).jpg";
-import pic57 from "../images/maral/img (57).jpg";
+// import pic57 from "../images/maral/img (57).jpg";
 
-import pic58 from "../images/maral/img (1).HEIC";
-import pic59 from "../images/maral/img (2).HEIC";
-import pic60 from "../images/maral/img (1).PNG";
-import pic61 from "../images/maral/img (3).HEIC";
-import pic62 from "../images/maral/img (4).HEIC";
+// import pic58 from "../images/maral/img (1).HEIC";
+// import pic59 from "../images/maral/img (2).HEIC";
+// import pic60 from "../images/maral/img (1).PNG";
+// import pic61 from "../images/maral/img (3).HEIC";
+// import pic62 from "../images/maral/img (4).HEIC";
 
 const images = [pic1, pic2, pic3, pic4, pic5, pic6, pic7, pic8, pic9, pic10, pic11, pic12, pic13, pic14, pic15, pic16, pic17, pic18, pic19, pic20, pic21, pic22, pic23, pic24, pic25, pic26, pic27, pic28, pic29, pic30,
-             pic31, pic32, pic33, pic34, pic35, pic36, pic37, pic38, pic39, pic40, pic41, pic42, pic43, pic44, pic45, pic46, pic47, pic48, pic49, pic50, pic51, pic52, pic53, pic54, pic55, pic56, pic57, pic58, pic59, pic60,
-             pic61, pic62];
+             pic31, pic32, pic33, pic34, pic35, pic36, pic37, pic38, pic39, pic40, pic41, pic42, pic43, pic44, pic45, pic46, pic47, pic48, pic49, pic50, pic51, pic52, pic53, pic54, pic55, pic56];
 
 
 
@@ -156,12 +155,12 @@ class Bio extends Component {
                     <img src={pic54} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:53 })} />
                     <img src={pic55} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:54 })} />
                     <img src={pic56} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:55 })} />
-                    <img src={pic57} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:56 })} />
-                    <img src={pic58} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:57 })} />
-                    <img src={pic59} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:58 })} />
-                    <img src={pic60} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:59 })} />
-                    <img src={pic61} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:60 })} />
-                    <img src={pic62} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:61 })} />
+                    {/*<img src={pic57} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:56 })} />*/}
+                    {/*<img src={pic58} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:57 })} />*/}
+                    {/*<img src={pic59} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:58 })} />*/}
+                    {/*<img src={pic60} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:59 })} />*/}
+                    {/*<img src={pic61} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:60 })} />*/}
+                    {/*<img src={pic62} className="thumbnail" alt=""  onClick={() => this.setState({ isOpen: true, photoIndex:61 })} />*/}
 
 
 

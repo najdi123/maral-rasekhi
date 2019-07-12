@@ -22,7 +22,7 @@ class NextComponent extends Component {
 
                 <div className="next-text">
                     <h1 className="next-text-1">
-                        In the decade since, he’s continued to win or medal in practically everything he’s entered across halfpipe, slopestyle, big air, and quarterpipe; built best-selling signature lines for Burton, Oakley, and Target; been the face of a snowboard video game; invented impossibly difficult tricks; scored the only perfect 100 in X Games SuperPipe history.
+                        Well I have taken part in several competitions abroad but it was right here in Iran where I obtained one of my all-time greatest achievements. There was a boardercross competition named Darbandsar Grand Prize. Now I’m a freestyler but I took part in the competition anyhow. All my rivals were speed racers so the odds seemed to be against me. But I came in first place and snatched the gold medal and it felt twice as rewarding as other wins
                     </h1>
                 </div>
                 <div className="next-image-1">

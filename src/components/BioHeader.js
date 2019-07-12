@@ -4,7 +4,7 @@ import React, {Component} from 'react';
 import './BioHeader.css'
 import Navbar from "./Navbar";
 
-import one from "../images/bio-music.png";
+// import one from "../images/bio-music.png";
 
 class BioHeader extends Component {
     render() {

@@ -37,7 +37,8 @@ class Jumbotron extends Component {
 
 
                         <p className="describe">
-                            Maral Rasekhi is a dual sport professional athlete who maintains some of the highest accolades within snowboarding and hockey. Maral started snowboarding at age seven and immediately showed an uncanny talent for the sport. By nine Maral had won a series of competitions and landed a sponsorship with Burton.
+                            Maral Rasekhi is a dual sport professional athlete who maintains some of the highest accolades within snowboarding and hockey. Maral started skating at age 7 and immediately showed an uncanny talent for the sport. By 10 Maral started skiing and she took on snowboarding at 15.
+
                         </p>
 
 

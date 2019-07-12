@@ -2,7 +2,7 @@ import React, {Component} from 'react';
 // import Fade from "react-reveal/Fade";
 // import Flash from "react-reveal/Flash";
 import './Header.css'
-import Navbar from "../Navbar";
+// import Navbar from "../Navbar";
 import Carousel from "../Carousel";
 
 class Jumbotron extends Component {
@@ -10,14 +10,7 @@ class Jumbotron extends Component {
         return (
             <div className="header">
                 <Carousel/>
-                {/*<div className="logo-box">*/}
-                    {/*<h5 className="logo">*/}
-                        {/*Maral*/}
-                        {/*<br/>*/}
-                        {/*Rasekhi*/}
-                    {/*</h5>*/}
-                {/*</div>*/}
-                {/*<Navbar/>*/}
+
 
                 <div className="text-box">
                     <h1 className="heading-primary">

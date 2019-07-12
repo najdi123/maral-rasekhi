@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 // import Footer from '../components/Footer.jsx';
-import Navbar from '../components/Navbar';
+// import Navbar from '../components/Navbar';
 import Header from '../components/Home/Header';
 import Jumbotron from '../components/Home/Jumbotron.jsx';
 import Intro from '../components/Home/Intro.js';
