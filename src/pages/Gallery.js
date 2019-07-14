@@ -5,6 +5,7 @@ import React, { Component } from 'react';
 // import Jumbotron from '../components/Jumbotron.jsx';
 import Gallery from '../components/Gallery'
 import Carousel from "../components/Carousel";
+import Footer from "../components/Footer";
 
 
 
@@ -19,6 +20,8 @@ class Home extends Component {
                 <Carousel/>
 
                 <Gallery/>
+
+                <Footer/>
 
             </div>
         );

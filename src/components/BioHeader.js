@@ -3,6 +3,7 @@ import React, {Component} from 'react';
 // import Flash from "react-reveal/Flash";
 import './BioHeader.css'
 import Navbar from "./Navbar";
+import Footer from "./Footer";
 
 // import one from "../images/bio-music.png";
 
@@ -65,6 +66,7 @@ class BioHeader extends Component {
                         {/*Shaun’s passions for music have always run deep. He put out a record for Warner Bros. and toured the world with his former band Bad Things. And in 2014 Shaun became the majority shareholder in the snowboarding/music festival Air + Style, an event that began in 1994 as the world’s first Big Air snowboarding contest and has since evolved into a three-stop global sports and music festival with dates in Austria, Beijing, and L.A. With the most recent event featuring a 16-story jump constructed at L.A.’s Exposition Park, the newly revamped Air + Style aims to support up-and-coming snowboarders by providing them with more accessible competitions and better prize money. “Bringing Air + Style to the U.S. for the first time was the perfect chance to breathe new life into the sport,” notes Shaun, who’s involved in every element of the festival, from poster design to parking logistics to selecting the lineup of artists and athletes. He hopes that Air + Style will draw new fans to snowboarding as well.*/}
                     {/*</p>*/}
                 </div>
+                <Footer/>
             </div>
         );
     }

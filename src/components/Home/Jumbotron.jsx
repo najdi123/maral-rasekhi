@@ -20,7 +20,7 @@ class Jumbotron extends Component {
                                     <img className="sw2" src={require("../../images/twitter.svg")} alt="Twitter" data-lazy-loaded="true" />
                                         <noscript><img src={require("../../images/twitter.svg")} alt="Twitter" />
                                     </noscript></a>&nbsp;&nbsp;&nbsp;
-                                <a href="https://www.instagram.com/shaunwhite/">
+                                <a href="https://www.instagram.com/maralrasekhi/">
                                     <img
                                         src={require("../../images/ig.svg")} alt="Instagram" data-lazy-loaded="true"
                                         className="sw2" />

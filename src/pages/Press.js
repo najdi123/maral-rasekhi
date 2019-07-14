@@ -4,6 +4,7 @@ import React, { Component } from 'react';
 // import Navbar from "../components/Navbar";
 import PressHeader from '../components/PressHeader';
 import News from '../components/Press/News';
+import Footer from "../components/Footer";
 // import Gallery from '../components/Gallery'
 
 
@@ -18,6 +19,8 @@ class Press extends Component {
                     <PressHeader />
                 </div>
                 <News/>
+
+                <Footer/>
 
             </div>
         );

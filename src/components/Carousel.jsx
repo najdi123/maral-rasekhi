@@ -11,13 +11,13 @@ import './Carousel.css';
 // import pic5 from "../images/maral/5.gif";
 // import pic6 from "../images/maral/6.gif";
 
-import pic1 from "../images/carousel/img1carousel2.jpg";
-import pic2 from "../images/carousel/img2carousel2.jpg";
-import pic3 from "../images/carousel/img3carousel2.jpg";
-import pic4 from "../images/carousel/img4carousel2.jpg";
-import pic5 from "../images/carousel/img5carousel2.jpg";
-import pic6 from "../images/carousel/img6carousel2.jpg";
-import pic7 from "../images/carousel/img7carousel2.jpg";
+import pic1 from "../images/carousel/11.jpg";
+import pic2 from "../images/carousel/31.jpg";
+import pic3 from "../images/carousel/41.jpg";
+import pic4 from "../images/carousel/61.jpg";
+import pic5 from "../images/carousel/51.jpg";
+import pic6 from "../images/carousel/22.jpg";
+
 
 import Navbar from "./Navbar";
 
@@ -41,7 +41,7 @@ class Carousel extends Component {
                         <li data-target="#carousel" data-slide-to="3"></li>
                         <li data-target="#carousel" data-slide-to="4"></li>
                         <li data-target="#carousel" data-slide-to="5"></li>
-                        <li data-target="#carousel" data-slide-to="6"></li>
+
 
 
 
@@ -94,14 +94,7 @@ class Carousel extends Component {
 
 
                         </div>
-                        <div className="carousel-item">
 
-                            <picture>
-                                <img src={pic7} alt="responsive image" className="d-block img-fluid"/>
-                            </picture>
-
-
-                        </div>
 
 
                     </div>

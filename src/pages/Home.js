@@ -9,6 +9,7 @@ import Snow from '../components/Home/Snow.js';
 import NextComponent from '../components/Home/NextComponent.js';
 // import Gallery from '../components/Gallery'
 import "./Home.css";
+import Footer from "../components/Footer";
 
 
 
@@ -20,9 +21,10 @@ class Home extends Component {
                 <Header/>
                 <Jumbotron/>
                 <Intro/>
-                <Xp/>
+                {/*<Xp/>*/}
                 <Snow/>
                 <NextComponent/>
+                <Footer/>
             </div>
         );
     }

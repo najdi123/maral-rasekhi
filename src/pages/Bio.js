@@ -4,6 +4,7 @@ import React, { Component } from 'react';
 // import Navbar from "../components/Navbar";
 // import Jumbotron from '../components/Jumbotron.jsx';
 import BioHeader from '../components/BioHeader';
+import Footer from "../components/Footer";
 // import Gallery from "../components/Gallery";
 
 
