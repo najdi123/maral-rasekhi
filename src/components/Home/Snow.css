@@ -3,6 +3,7 @@
     background-size: cover;
     color: white;
 }
+
 .snow-title {
 
     /*-webkit-column-width: 50vh;*/
@@ -17,7 +18,7 @@
     /*-webkit-column-width: 50vh;*/
     /*-moz-column-width: 50vh;*/
     /*column-width: 50vh;*/
-
+    font-size: 18px;
     margin:20px;
     padding:30px;
 }
@@ -26,9 +27,18 @@
         /*-webkit-column-width: 50vh;*/
         /*-moz-column-width: 50vh;*/
         /*column-width: 50vh;*/
-
+        font-size: 22px;
         margin:20px;
-        padding:80px 60px 40px 0;
+        padding:80px 60px 40px 80px;
+    }
+
+}
+@media only screen and (max-width: 480px) {
+    .snow-title {
+
+        margin:40px;
+        padding:30px;
+
     }
 
 }
