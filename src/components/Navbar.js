@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 // import Fade from "react-reveal/Fade";
 // import Flash from "react-reveal/Flash";
 import './Navbar.css';
+import Carousel from "./Carousel";
 
 
 
@@ -27,6 +28,7 @@ class Navbar extends Component {
 
                     </div>
                 </div>
+
             </div>
 
 
