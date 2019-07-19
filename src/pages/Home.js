@@ -3,13 +3,14 @@ import React, { Component } from 'react';
 // import Navbar from '../components/Navbar';
 import Header from '../components/Home/Header';
 import Jumbotron from '../components/Home/Jumbotron.jsx';
-import Intro from '../components/Home/Intro.js';
-import Xp from '../components/Home/Xp.js';
+// import Intro from '../components/Home/Intro.js';
+// import Xp from '../components/Home/Xp.js';
 import Snow from '../components/Home/Snow.js';
 import NextComponent from '../components/Home/NextComponent.js';
 // import Gallery from '../components/Gallery'
 import "./Home.css";
 import Footer from "../components/Footer";
+import NewIntro from "../components/Home/NewIntro";
 
 
 
@@ -20,7 +21,8 @@ class Home extends Component {
             <div >
                 <Header/>
                 <Jumbotron/>
-                <Intro/>
+                <NewIntro/>
+                {/*<Intro/>*/}
                 {/*<Xp/>*/}
                 <Snow/>
                 <NextComponent/>

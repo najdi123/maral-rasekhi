@@ -23,6 +23,15 @@
     margin:20px;
     padding:30px;
 }
+.stroke,
+.no-stroke {
+    color: white;
+    font-size: 18px;
+}
+.stroke {
+    -webkit-text-stroke: 2px black;
+    font-size: 18px;
+}
 @media only screen and (min-width: 1050px) {
     .snow-text {
         /*-webkit-column-width: 50vh;*/

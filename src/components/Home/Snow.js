@@ -12,9 +12,10 @@ class Snow extends Component {
                     <h1>SNOW</h1>
                 </div>
                 <div className="snow-text intro-image">
-                    <p>
+                    <p className="no-stroke">
                         A woman who relentlessly chases her dreams: a successful woman wouldn’t let her surrounding conditions affect her decision making or distract her from achieving her goals.
                     </p>
+
                 </div>
 
 
