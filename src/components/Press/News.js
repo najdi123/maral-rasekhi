@@ -30,9 +30,28 @@ class News extends Component {
                         </a>
                     </div>
 
+                    <div className="col-12 col-md-6 news-article" id="snowboard">
+                        <a href="https://en.m.wikipedia.org/wiki/Iran_women%27s_national_inline_hockey_team">
+                            <img className="news-image" src={three} alt="Iran Asian games" />
+                        </a>
+                    </div>
+
+
                     <div className="col-12 col-md-6 news-article">
                         <a href="https://www.presstv.com/detail/2016/10/26/490796/iran-women-inline-hockey-team-asian-roller-skating-championships-china">
                             <img className="news-image" src={seven} alt="Iran Asian games" />
+                        </a>
+                    </div>
+                    {/*wiki links*/}
+
+                    <div className="col-12 col-md-6 news-article">
+                        <a href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%A7%D9%84_%D8%B1%D8%A7%D8%B3%D8%AE%DB%8C">
+                            <img className="news-image" src={six} alt="Iran Asian games" />
+                        </a>
+                    </div>
+                    <div className="col-12 col-md-6 news-article">
+                        <a href="https://en.mehrnews.com/news/137741/Iranian-roller-hockey-skaters-claim-Asian-championship">
+                            <img className="news-image" src={nine} alt="Iran Asian games" />
                         </a>
                     </div>
 
@@ -67,23 +86,9 @@ class News extends Component {
                             <img className="news-image" src={eight} alt="Iran Asian games" />
                         </a>
                     </div>
-                    <div className="col-12 col-md-6 news-article">
-                        <a href="https://en.mehrnews.com/news/137741/Iranian-roller-hockey-skaters-claim-Asian-championship">
-                            <img className="news-image" src={nine} alt="Iran Asian games" />
-                        </a>
-                    </div>
 
-                    {/*wiki links*/}
-                    <div className="col-12 col-md-6 news-article" id="snowboard">
-                        <a href="https://en.m.wikipedia.org/wiki/Iran_women%27s_national_inline_hockey_team">
-                            <img className="news-image" src={three} alt="Iran Asian games" />
-                        </a>
-                    </div>
-                    <div className="col-12 col-md-6 news-article">
-                        <a href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B1%D8%A7%D9%84_%D8%B1%D8%A7%D8%B3%D8%AE%DB%8C">
-                            <img className="news-image" src={six} alt="Iran Asian games" />
-                        </a>
-                    </div>
+
+
                 </div>
             </div>
         );

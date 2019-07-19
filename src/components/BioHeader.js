@@ -33,6 +33,11 @@ class BioHeader extends Component {
 
                     </h3>
 
+                    <h3 className="bio-text-1">
+                        Maral Rasekhi has won 2 bronze medals in Asian Roller Skating Championships back to back, 2016 in Lishui, China
+                        and 2018 in Namwon, South Korea.
+                    </h3>
+
                     {/*<p className="bio-text-1">*/}
                         {/*Growing up near San Diego, two-time Olympic gold medalist Shaun White first tried snowboarding in an attempt to emulate his older brother Jesse, and immediately showed an uncanny talent for the sport. With Shaun instantly hooked, the White family began making the three-hour trek to the San Bernardino Mountains every chance they could. “My mom would put me, my brother, and sister in the car and we’d drive up and ride the mountain all day, or spend the weekend if we were really going to live it up,” he says. “I was introduced to the sport in such a casual way, but it really took hold off me.” Because they couldn’t afford to stay at the nearby resorts — his mom was a waitress, his dad worked for the San Clemente water department — his parents eventually bought a used van so the family could camp out at the base of the mountains overnight. By age seven — the same year he was discovered by Tony Hawk at a local skate park — Shaun had won a series of snowboarding competitions and landed a sponsorship with snowboard manufacturer Burton.*/}
                     {/*</p>*/}

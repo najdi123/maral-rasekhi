@@ -12,11 +12,11 @@ class Jumbotron extends Component {
                         <h6 className="name">
 
                             <div className="sw-social">
-                                <a href="https://www.facebook.com/ShaunWhite/">
+                                <a href="https://www.facebook.com/maral.rasekhi">
                                     <img src={require("../../images/fb.svg")} alt="Facebook" data-lazy-loaded="true" />
                                         <noscript><img src={require("../../images/fb.svg")} alt="Facebook" /></noscript>
                                 </a>&nbsp;&nbsp;&nbsp;
-                                <a href="https://twitter.com/shaunwhite">
+                                <a href="https://twitter.com/maral1365">
                                     <img className="sw2" src={require("../../images/twitter.svg")} alt="Twitter" data-lazy-loaded="true" />
                                         <noscript><img src={require("../../images/twitter.svg")} alt="Twitter" />
                                     </noscript></a>&nbsp;&nbsp;&nbsp;
@@ -26,7 +26,7 @@ class Jumbotron extends Component {
                                         className="sw2" />
                                     <noscript><img src="../../images/ig.svg" alt="Instagram" />
                                     </noscript></a>&nbsp;&nbsp;&nbsp;
-                                <a href="https://www.youtube.com/user/shaunwhite">
+                                <a href="3">
                                     <img
                                         src={require("../../images/yt.svg")} alt="Youtube" data-lazy-loaded="true"
                                         className="sw2" />
