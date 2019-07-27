@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import "./NewIntro.css";
-import pic14 from "../../images/intro-maral3.gif";
+import pic14 from "../../images/Maral Raskhi intro.gif";
 
 class NewIntro extends Component {
     render() {

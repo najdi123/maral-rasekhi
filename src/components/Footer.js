@@ -14,10 +14,10 @@ class Footer extends Component {
                         <img className="sw2 sw4" src={require("../images/facebook-logo.png")} alt="Facebook" data-lazy-loaded="true" />
                         <noscript><img src={require("../images/facebook-logo.png")} alt="Facebook" /></noscript>
                     </a>&nbsp;&nbsp;&nbsp;
-                    <a href="https://twitter.com/maral1365">
-                        <img className="sw2 sw4" src={require("../images/twitter-logo-on-black-background.png")} alt="Twitter" data-lazy-loaded="true" />
-                        <noscript><img src={require("../images/twitter-logo-on-black-background.png")} alt="Twitter" />
-                        </noscript></a>&nbsp;&nbsp;&nbsp;
+                    {/*<a href="https://twitter.com/maral1365">*/}
+                        {/*<img className="sw2 sw4" src={require("../images/twitter-logo-on-black-background.png")} alt="Twitter" data-lazy-loaded="true" />*/}
+                        {/*<noscript><img src={require("../images/twitter-logo-on-black-background.png")} alt="Twitter" />*/}
+                        {/*</noscript></a>&nbsp;&nbsp;&nbsp;*/}
                     <a href="https://www.instagram.com/maralrasekhi/">
                         <img
                             src={require("../images/instagram-logo.png")} alt="Instagram" data-lazy-loaded="true"

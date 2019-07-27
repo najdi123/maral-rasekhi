@@ -1,7 +1,110 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fa731cb8-2874-4ee1-828e-8d8f18f0fa68" name="Default Changelist" comment="" />
+    <list default="true" id="fa731cb8-2874-4ee1-828e-8d8f18f0fa68" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/BioHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BioHeader.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Carousel.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Gallery.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Intro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Jumbotron.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Jumbotron.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/NewIntro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/NewIntro.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/NextComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/NextComponent.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Snow.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Snow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Home/Snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Snow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/Press/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Press/News.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/331.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/332.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/333.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/334.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/51.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/61.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/img1carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/img2carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/img3carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/img4carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/img5carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/img6carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/carousel/img7carousel2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/intro-maral3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (1).HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (1).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (1).PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (10).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (11).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (12).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (13).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (14).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (15).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (16).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (17).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (18).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (19).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (2).HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (2).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (20).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (21).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (22).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (23).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (24).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (25).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (26).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (27).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (28).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (29).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (3).HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (3).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (30).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (31).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (32).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (33).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (34).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (35).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (36).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (37).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (38).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (39).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (4).HEIC" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (4).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (40).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (41).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (42).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (43).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (44).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (45).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (46).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (47).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (48).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (49).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (5).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (50).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (51).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (52).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (53).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (54).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (55).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (56).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (57).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (6).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (7).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (8).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/maral/img (9).JPG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/new-snow.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nextC1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/nextC2.gif" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -53,62 +156,64 @@
     <session id="1030942540">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="9" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
           <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="1" />
           <entry key="project.open.time.35" value="1" />
           <entry key="project.open.time.36" value="1" />
+          <entry key="project.open.time.4" value="1" />
           <entry key="project.open.time.43" value="1" />
-          <entry key="project.opened" value="8" />
+          <entry key="project.opened" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.js.language.service.starts">
         <counts>
-          <entry key="ESLintLanguageService" value="8" />
+          <entry key="ESLintLanguageService" value="9" />
           <entry key="TypeScriptServerServiceImpl" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="css" value="3949" />
-          <entry key="html" value="34" />
-          <entry key="js" value="3784" />
-          <entry key="json" value="34" />
-          <entry key="jsx" value="536" />
+          <entry key="css" value="3953" />
+          <entry key="html" value="35" />
+          <entry key="js" value="4113" />
+          <entry key="json" value="55" />
+          <entry key="jsx" value="653" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="CSS" value="3949" />
-          <entry key="HTML" value="34" />
-          <entry key="JSON" value="34" />
-          <entry key="JSX Harmony" value="536" />
-          <entry key="JavaScript" value="3784" />
+          <entry key="CSS" value="3953" />
+          <entry key="HTML" value="35" />
+          <entry key="JSON" value="55" />
+          <entry key="JSX Harmony" value="653" />
+          <entry key="JavaScript" value="4113" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="JPG" value="1" />
-          <entry key="css" value="54" />
-          <entry key="html" value="5" />
-          <entry key="js" value="95" />
-          <entry key="json" value="2" />
-          <entry key="jsx" value="12" />
+          <entry key="css" value="57" />
+          <entry key="html" value="8" />
+          <entry key="js" value="108" />
+          <entry key="json" value="3" />
+          <entry key="jsx" value="13" />
           <entry key="svg" value="1" />
           <entry key="ts" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="54" />
-          <entry key="HTML" value="5" />
+          <entry key="CSS" value="57" />
+          <entry key="HTML" value="8" />
           <entry key="Image" value="1" />
-          <entry key="JSON" value="2" />
-          <entry key="JSX Harmony" value="12" />
-          <entry key="JavaScript" value="95" />
+          <entry key="JSON" value="3" />
+          <entry key="JSX Harmony" value="13" />
+          <entry key="JavaScript" value="108" />
           <entry key="SVG" value="1" />
           <entry key="TypeScript" value="1" />
         </counts>
@@ -118,24 +223,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/pages/Home.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="5" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="45" />
-              <folding>
-                <element signature="e#138#185#0" expanded="true" />
-                <element signature="e#342#388#0" expanded="true" />
-                <element signature="e#495#515#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Home/Intro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="26" column="22" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="26" selection-end-column="22" />
+            <state relative-caret-position="-82">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#124#144#0" expanded="true" />
               </folding>
@@ -144,19 +235,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Home/Intro.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Home/Snow.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="170">
+              <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
             </state>
           </provider>
         </entry>
@@ -164,29 +246,55 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Home/Snow.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
+            <state relative-caret-position="17">
+              <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/BioHeader.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Home/NextComponent.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="295">
-              <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
+            <state relative-caret-position="170">
+              <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
               <folding>
-                <element signature="e#124#148#0" expanded="true" />
+                <element signature="e#125#153#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Home/Jumbotron.jsx">
+        <entry file="file://$PROJECT_DIR$/src/components/Press/News.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+            <state relative-caret-position="1445">
+              <caret line="85" column="86" selection-start-line="85" selection-start-column="86" selection-end-line="85" selection-end-column="86" />
+              <folding>
+                <element signature="e#124#143#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/Downloads/googlee258acd3a203de6b.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/build/index.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
             </state>
           </provider>
         </entry>
@@ -194,32 +302,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/components/Home/NewIntro.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-              <folding>
-                <element signature="e#0#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/Home/NewIntro.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+            <state relative-caret-position="34">
+              <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
+        <entry file="file://$PROJECT_DIR$/src/components/Home/NewIntro.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
-              <folding>
-                <element signature="e#0#41#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="442">
+              <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -239,6 +332,10 @@
       <find>\-webkit\-column\-width\: 500px\;\*\/\n    \/\*\-moz\-column\-width\: 500px\;\*\/\n    \/\*column\-width\: 500px\;</find>
       <find>.col-12</find>
       <find>row</find>
+      <find>alt=&quot;</find>
+      <find>img</find>
+      <find>img (</find>
+      <find>intro-maral3.gif</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -247,8 +344,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/Jumbotron.css" />
-        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/Intro.js" />
         <option value="$PROJECT_DIR$/src/components/Intro.css" />
         <option value="$PROJECT_DIR$/src/components/Snow.js" />
@@ -269,12 +364,9 @@
         <option value="$PROJECT_DIR$/src/components/Navbar.css" />
         <option value="$PROJECT_DIR$/src/App.css" />
         <option value="$PROJECT_DIR$/src/components/Press/News.css" />
-        <option value="$PROJECT_DIR$/public/index.html" />
         <option value="$PROJECT_DIR$/src/App.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/NextComponent.js" />
         <option value="$PROJECT_DIR$/src/components/PressHeader.js" />
         <option value="$PROJECT_DIR$/src/components/BioHeader.css" />
-        <option value="$PROJECT_DIR$/src/components/Gallery.js" />
         <option value="$PROJECT_DIR$/src/components/Footer.css" />
         <option value="$PROJECT_DIR$/src/pages/Contact.js" />
         <option value="$PROJECT_DIR$/src/pages/Home.css" />
@@ -283,21 +375,26 @@
         <option value="$PROJECT_DIR$/src/pages/Gallery.js" />
         <option value="$PROJECT_DIR$/src/components/Home/Header.js" />
         <option value="$PROJECT_DIR$/src/components/Home/Header.css" />
-        <option value="$PROJECT_DIR$/src/components/Carousel.jsx" />
         <option value="$PROJECT_DIR$/src/components/Navbar.js" />
         <option value="$PROJECT_DIR$/src/components/Home/NextComponent.css" />
         <option value="$PROJECT_DIR$/src/components/Carousel.css" />
-        <option value="$PROJECT_DIR$/src/components/Press/News.js" />
-        <option value="$PROJECT_DIR$/src/components/BioHeader.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/Intro.js" />
         <option value="$PROJECT_DIR$/src/components/Home/Intro.css" />
+        <option value="$PROJECT_DIR$/src/components/Home/NewIntro.css" />
+        <option value="$PROJECT_DIR$/src/pages/Home.js" />
+        <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/src/components/Home/Jumbotron.jsx" />
         <option value="$PROJECT_DIR$/src/components/Footer.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/NewIntro.js" />
-        <option value="$PROJECT_DIR$/src/components/Home/NewIntro.css" />
-        <option value="$PROJECT_DIR$/src/components/Home/Snow.css" />
         <option value="$PROJECT_DIR$/src/components/Home/Snow.js" />
-        <option value="$PROJECT_DIR$/src/pages/Home.js" />
+        <option value="$PROJECT_DIR$/src/components/Press/News.js" />
+        <option value="$PROJECT_DIR$/src/components/BioHeader.js" />
+        <option value="$PROJECT_DIR$/src/components/Gallery.js" />
+        <option value="$PROJECT_DIR$/src/components/Carousel.jsx" />
+        <option value="$PROJECT_DIR$/src/components/Home/Intro.js" />
+        <option value="$PROJECT_DIR$/src/components/Home/NewIntro.js" />
+        <option value="$PROJECT_DIR$/src/components/Home/Snow.css" />
+        <option value="$PROJECT_DIR$/src/components/Home/NextComponent.js" />
+        <option value="$USER_HOME$/Downloads/googlee258acd3a203de6b.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -331,6 +428,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -378,18 +476,24 @@
               <item name="maral" type="b2602c69:ProjectViewProjectNode" />
               <item name="maral" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="images" type="462c0819:PsiDirectoryNode" />
+              <item name="carousel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="maral" type="b2602c69:ProjectViewProjectNode" />
+              <item name="maral" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="pages" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../ebrahimi-recycling" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../expressPractice" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="C:\29\studio0\node_modules\eslint" />
@@ -446,11 +550,13 @@
       <workItem from="1562239272193" duration="6536000" />
       <workItem from="1562574914816" duration="18405000" />
       <workItem from="1563090266511" duration="25507000" />
+      <workItem from="1563714501932" duration="706000" />
+      <workItem from="1563951387077" duration="8152000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129634000" />
+    <option name="totallyTimeSpent" value="138492000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -469,7 +575,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32907802" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32907802" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.29929078" />
       <window_info anchor="bottom" id="TypeScript" order="11" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -577,23 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="187">
           <caret line="19" column="21" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
-          <folding>
-            <element signature="e#3#43#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="24" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -601,23 +690,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/BioHeader.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Gallery.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="157" column="20" selection-start-line="157" selection-start-column="23" selection-end-line="157" selection-end-column="135" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -639,9 +711,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="476">
           <caret line="28" column="52" selection-start-line="28" selection-start-column="52" selection-end-line="28" selection-end-column="52" />
-          <folding>
-            <element signature="e#92#134#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -656,19 +725,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="42" lean-forward="true" selection-start-line="6" selection-start-column="42" selection-end-line="6" selection-end-column="42" />
-          <folding>
-            <element signature="e#240#288#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Press.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
-          <folding>
-            <element signature="e#184#236#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -686,35 +742,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="867">
-          <caret line="51" column="102" selection-start-line="51" selection-start-column="102" selection-end-line="51" selection-end-column="102" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <element signature="e#348#393#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Navbar.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="e#0#41#0" expanded="true" />
-            <element signature="e#170#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/NextComponent.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="24" column="465" selection-start-line="24" selection-start-column="465" selection-end-line="24" selection-end-column="465" />
-          <folding>
-            <element signature="e#125#153#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -732,13 +763,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/Header.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/Header.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
@@ -746,100 +770,168 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Press/News.js">
+    <entry file="file://$PROJECT_DIR$/src/pages/Home.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="55" column="26" selection-start-line="55" selection-start-column="26" selection-end-line="55" selection-end-column="26" />
+        <state relative-caret-position="68">
+          <caret line="5" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="45" />
           <folding>
-            <element signature="e#124#143#0" expanded="true" />
+            <element signature="e#138#185#0" expanded="true" />
+            <element signature="e#342#388#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/BioHeader.js">
+    <entry file="file://$PROJECT_DIR$/src/components/Home/Intro.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="295">
-          <caret line="37" column="55" selection-start-line="37" selection-start-column="55" selection-end-line="37" selection-end-column="55" />
-          <folding>
-            <element signature="e#124#148#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="748">
+          <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="24" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/Jumbotron.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="21" column="72" selection-start-line="18" selection-start-column="35" selection-end-line="21" selection-end-column="72" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Footer.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="16" column="58" selection-start-line="16" selection-start-column="58" selection-end-line="16" selection-end-column="58" />
+        <state>
+          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
           <folding>
             <element signature="e#0#41#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/Jumbotron.jsx">
+    <entry file="file://$PROJECT_DIR$/src/components/BioHeader.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="42" selection-start-line="28" selection-start-column="42" selection-end-line="28" selection-end-column="42" />
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/Intro.css">
+    <entry file="file://$PROJECT_DIR$/src/pages/Press.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="44" selection-start-line="44" selection-end-line="44" selection-end-column="43" />
+        <state relative-caret-position="374">
+          <caret line="22" column="25" selection-start-line="22" selection-start-column="25" selection-end-line="22" selection-end-column="25" />
+          <folding>
+            <element signature="e#184#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/BioHeader.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="e#124#148#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Gallery.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1360">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="7" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Carousel.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-612">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/Header.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/Intro.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="26" column="22" lean-forward="true" selection-start-line="16" selection-start-column="16" selection-end-line="26" selection-end-column="22" />
+        <state relative-caret-position="-82">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#124#144#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/Snow.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/Home/Snow.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/pages/Home.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="5" selection-start-line="5" selection-start-column="3" selection-end-line="6" selection-end-column="45" />
-          <folding>
-            <element signature="e#138#185#0" expanded="true" />
-            <element signature="e#342#388#0" expanded="true" />
-            <element signature="e#495#515#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/NewIntro.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#39#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="34">
+          <caret line="2" column="54" selection-start-line="2" selection-start-column="54" selection-end-line="2" selection-end-column="54" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/components/Home/NewIntro.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="26" column="31" lean-forward="true" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        <state relative-caret-position="442">
+          <caret line="26" column="31" selection-start-line="26" selection-start-column="31" selection-end-line="26" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/Snow.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="95" selection-start-line="10" selection-start-column="95" selection-end-line="10" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/Snow.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="62" selection-start-line="1" selection-start-column="62" selection-end-line="1" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Home/NextComponent.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding>
+            <element signature="e#125#153#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/Press/News.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1445">
+          <caret line="85" column="86" selection-start-line="85" selection-start-column="86" selection-end-line="85" selection-end-column="86" />
+          <folding>
+            <element signature="e#124#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/googlee258acd3a203de6b.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="24" column="55" selection-start-line="24" selection-start-column="55" selection-end-line="24" selection-end-column="55" />
         </state>
       </provider>
     </entry>

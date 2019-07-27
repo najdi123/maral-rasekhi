@@ -10,7 +10,7 @@ import Footer from "./Footer";
 class BioHeader extends Component {
     render() {
         return (
-            <div className="bio-header">
+            <div className="bio-header" alt="Maral Rasekhi snow board freestyle">
 
                 <Navbar/>
 
@@ -24,19 +24,21 @@ class BioHeader extends Component {
                 <div className="bio-text">
 
                     <h3 className="bio-text-1">
-                        Maral Rasekhi is a current member of Iranian inline hockey national team and a previous member of Iranian speed skating national team. She has won a team bronze medal in Asian competitions during the China 2016 games. During the 2006 international club hockey games, Iranian women's team was not assembled so with the green light from the Iranian skating federation, Rasekhi played for a hockey club from Hong Kong and won a team golden medal and earned the nick name of "scoring girl" of the competitions.
+                        Maral Rasekhi has won 2 bronze medals in Asian Roller Skating Championships back to back, 2016 in Lishui, China
+                        and 2018 in Namwon, South Korea.
+                    </h3>
+
+                    <h3 className="bio-text-1">
+                        Maral Rasekhi is a current member of Iranian inline hockey national team and a previous member of Iranian speed skating national team. Maral Rasekhi has won a team bronze medal in Asian competitions during the China 2016 games. During the 2006 international club hockey games, Iranian women's team was not assembled so with the green light from the Iranian skating federation, Maral Rasekhi played for a hockey club from Hong Kong and won a team golden medal and earned the nick name of "scoring girl" of the competitions.
 
                    </h3>
 
                     <h3 className="bio-text-1">
-                        Maral Rasekhi was born in 1986 in Tehran. She started her sport activities/life with skating when she was 10 years old and she started her professional activities in inline hockey at 15 years old, she also got involved in snowboard. In 2007 and 2008 she played for Hong Kong's Dragon skate team in open international games and earned a team gold medal. Rasekhi played for Iranian national skating hockey in 2014 China games and in 2016 Italian games. She was also a part of Iranian national team of speed skating during the 2004 Japan and 2005 Anyang South-Korea games and has won gold and silver medals in Inline hockey and snow-board competitions.
+                        Maral Rasekhi was born in 1986 in Tehran. Maral Rasekhi started her sport activities/life with skating when she was 10 years old and she started her professional activities in inline hockey at 15 years old, she also got involved in snowboard. In 2007 and 2008 she played for Hong Kong's Dragon skate team in open international games and earned a team gold medal. Rasekhi played for Iranian national skating hockey in 2014 China games and in 2016 Italian games. She was also a part of Iranian national team of speed skating during the 2004 Japan and 2005 Anyang South-Korea games and has won gold and silver medals in Inline hockey and snow-board competitions.
 
                     </h3>
 
-                    <h3 className="bio-text-1">
-                        Maral Rasekhi has won 2 bronze medals in Asian Roller Skating Championships back to back, 2016 in Lishui, China
-                        and 2018 in Namwon, South Korea.
-                    </h3>
+
 
                     {/*<p className="bio-text-1">*/}
                         {/*Growing up near San Diego, two-time Olympic gold medalist Shaun White first tried snowboarding in an attempt to emulate his older brother Jesse, and immediately showed an uncanny talent for the sport. With Shaun instantly hooked, the White family began making the three-hour trek to the San Bernardino Mountains every chance they could. “My mom would put me, my brother, and sister in the car and we’d drive up and ride the mountain all day, or spend the weekend if we were really going to live it up,” he says. “I was introduced to the sport in such a casual way, but it really took hold off me.” Because they couldn’t afford to stay at the nearby resorts — his mom was a waitress, his dad worked for the San Clemente water department — his parents eventually bought a used van so the family could camp out at the base of the mountains overnight. By age seven — the same year he was discovered by Tony Hawk at a local skate park — Shaun had won a series of snowboarding competitions and landed a sponsorship with snowboard manufacturer Burton.*/}

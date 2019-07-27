@@ -8,7 +8,7 @@ class Snow extends Component {
     render() {
         return (
             <div className="snow intro">
-                <div className="snow-title intro-top2">
+                <div className="snow-title intro-top2" alt="Maral Rasekhi snow board freestyle">
                     <h1>SNOW</h1>
                 </div>
                 <div className="snow-text intro-image">

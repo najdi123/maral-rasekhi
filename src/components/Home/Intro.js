@@ -2,14 +2,14 @@ import React, {Component} from 'react';
 // import Fade from "react-reveal/Fade";
 // import Flash from "react-reveal/Flash";
 import './Intro.css'
-import pic14 from "../../images/intro-maral3.gif";
+import pic14 from "../../images/Maral Raskhi intro.gif";
 
 class Intro extends Component {
     render() {
         return (
             <div className="intro2 row">
                 <div className="intro-top">
-                    <img src={pic14} className="intro-image" alt="maral rasekhi"/>
+                    <img src={pic14} className="intro-image" alt="Maral Rasekhi snow board freestyle"/>
                 </div>
 
 

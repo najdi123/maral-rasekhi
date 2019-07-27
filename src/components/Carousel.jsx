@@ -3,20 +3,12 @@ import React, { Component } from 'react';
 import './Carousel.css';
 
 
-
-// import pic1 from "../images/maral/new1.gif";
-// import pic2 from "../images/maral/2.gif";
-// import pic3 from "../images/maral/3.gif";
-// import pic4 from "../images/maral/new4.gif";
-// import pic5 from "../images/maral/5.gif";
-// import pic6 from "../images/maral/6.gif";
-
-import pic1 from "../images/carousel/11.jpg";
-import pic2 from "../images/carousel/31.jpg";
-import pic3 from "../images/carousel/41.jpg";
-import pic4 from "../images/carousel/61.jpg";
-import pic5 from "../images/carousel/51.jpg";
-import pic6 from "../images/carousel/22.jpg";
+import pic1 from "../images/carousel/Maral Rasekhi 1.jpg";
+import pic2 from "../images/carousel/Maral Rasekhi 2.jpg";
+import pic3 from "../images/carousel/Maral Rasekhi 3.jpg";
+import pic4 from "../images/carousel/Maral Rasekhi 4.jpg";
+import pic5 from "../images/carousel/Maral Rasekhi 5.jpg";
+import pic6 from "../images/carousel/Maral Rasekhi 6.jpg";
 
 
 import Navbar from "./Navbar";
@@ -49,7 +41,7 @@ class Carousel extends Component {
                     <div className="carousel-inner" role="listbox">
                         <div className="carousel-item active">
                             <picture>
-                                <img src={pic1} alt="responsive image" className="d-block img-fluid"/>
+                                <img src={pic1} alt="responsive image" className="d-block img-fluid" alt="Maral Rasekhi bronze medal 2016 in Lishui, China"/>
                             </picture>
 
 
@@ -57,14 +49,14 @@ class Carousel extends Component {
 
                         <div className="carousel-item">
                             <picture>
-                                <img src={pic2} alt="responsive image" className="d-block img-fluid"/>
+                                <img src={pic2} alt="responsive image" className="d-block img-fluid" alt="Maral Rasekhi bronze medal 2018 in Namwon, South Korea"/>
                             </picture>
 
                         </div>
 
                         <div className="carousel-item">
                             <picture>
-                                <img src={pic3} alt="responsive image" className="d-block img-fluid"/>
+                                <img src={pic3} alt="responsive image" className="d-block img-fluid" alt="Maral Rasekhi 2018 snow board champions"/>
                             </picture>
 
 
@@ -73,15 +65,7 @@ class Carousel extends Component {
                         <div className="carousel-item">
 
                             <picture>
-                                <img src={pic4} alt="responsive image" className="d-block img-fluid"/>
-                            </picture>
-
-
-                        </div>
-                        <div className="carousel-item">
-
-                            <picture>
-                                <img src={pic5} alt="responsive image" className="d-block img-fluid"/>
+                                <img src={pic4} alt="responsive image" className="d-block img-fluid" alt="Maral Rasekhi gold medal 2019 snow board freestyle"/>
                             </picture>
 
 
@@ -89,7 +73,15 @@ class Carousel extends Component {
                         <div className="carousel-item">
 
                             <picture>
-                                <img src={pic6} alt="responsive image" className="d-block img-fluid"/>
+                                <img src={pic5} alt="responsive image" className="d-block img-fluid" alt="Maral Rasekhi"/>
+                            </picture>
+
+
+                        </div>
+                        <div className="carousel-item">
+
+                            <picture>
+                                <img src={pic6} alt="responsive image" className="d-block img-fluid" alt="Maral Rasekhi Abu dhabi"/>
                             </picture>
 
 

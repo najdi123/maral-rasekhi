@@ -4,8 +4,8 @@ import React, {Component} from 'react';
 // import Flash from "react-reveal/Flash";
 import './NextComponent.css'
 
-import one from "../../images/nextC1.gif";
-import two from "../../images/nextC2.gif";
+import one from "../../images/Maral Rasekhi C1.gif";
+import two from "../../images/Maral Rasekhi C2.gif";
 
 class NextComponent extends Component {
     render() {
@@ -17,7 +17,7 @@ class NextComponent extends Component {
                     </h1>
                 </div>
                 <div className="next-image-1">
-                    <img src={one} className="next-image-top" alt=""/>
+                    <img src={one} className="next-image-top" alt="Maral Rasekhi snow board freestyle"/>
                 </div>
 
                 <div className="next-text">
@@ -26,7 +26,7 @@ class NextComponent extends Component {
                     </h1>
                 </div>
                 <div className="next-image-1">
-                    <img src={two} className="next-image-top" alt=""/>
+                    <img src={two} className="next-image-top" alt="Maral Rasekhi national hockey player"/>
                 </div>
 
 
