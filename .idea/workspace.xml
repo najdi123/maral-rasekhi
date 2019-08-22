@@ -3,107 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fa731cb8-2874-4ee1-828e-8d8f18f0fa68" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BioHeader.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BioHeader.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Carousel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Carousel.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Gallery.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Gallery.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Intro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Intro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Jumbotron.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Jumbotron.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/NewIntro.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/NewIntro.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/NextComponent.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/NextComponent.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Snow.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Snow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Home/Snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Home/Snow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Press/News.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Press/News.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/31.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/331.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/332.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/333.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/334.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/41.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/51.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/61.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/img1carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/img2carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/img3carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/img4carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/img5carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/img6carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/carousel/img7carousel2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/intro-maral3.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (1).HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (1).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (1).PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (10).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (11).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (12).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (13).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (14).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (15).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (16).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (17).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (18).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (19).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (2).HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (2).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (20).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (21).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (22).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (23).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (24).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (25).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (26).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (27).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (28).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (29).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (3).HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (3).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (30).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (31).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (32).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (33).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (34).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (35).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (36).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (37).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (38).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (39).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (4).HEIC" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (4).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (40).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (41).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (42).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (43).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (44).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (45).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (46).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (47).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (48).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (49).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (5).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (50).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (51).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (52).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (53).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (54).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (55).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (56).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (57).jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (6).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (7).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (8).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/maral/img (9).JPG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/new-snow.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/nextC1.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/images/nextC2.gif" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -156,7 +55,7 @@
     <session id="1030942540">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="9" />
+          <entry key="project.closed" value="10" />
           <entry key="project.open.time.2" value="1" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="1" />
@@ -415,10 +314,10 @@
     </packageJsonPaths>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="260" />
-    <option name="y" value="20" />
-    <option name="width" value="1155" />
-    <option name="height" value="1040" />
+    <option name="x" value="980" />
+    <option name="y" value="13" />
+    <option name="width" value="947" />
+    <option name="height" value="1013" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -551,15 +450,16 @@
       <workItem from="1562574914816" duration="18405000" />
       <workItem from="1563090266511" duration="25507000" />
       <workItem from="1563714501932" duration="706000" />
-      <workItem from="1563951387077" duration="8152000" />
+      <workItem from="1563951387077" duration="8809000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="138492000" />
+    <option name="totallyTimeSpent" value="139149000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20687376" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
